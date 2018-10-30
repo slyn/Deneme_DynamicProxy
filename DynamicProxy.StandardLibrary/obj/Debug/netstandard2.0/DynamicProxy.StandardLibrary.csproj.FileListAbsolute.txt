@@ -1,0 +1,18 @@
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\bin\Debug\netstandard2.0\DynamicProxy.StandardLibrary.deps.json
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\bin\Debug\netstandard2.0\DynamicProxy.StandardLibrary.dll
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.csproj.CoreCompileInputs.cache
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.AssemblyInfoInputs.cache
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.AssemblyInfo.cs
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\bin\Debug\netstandard2.0\DynamicProxy.StandardLibrary.pdb
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.dll
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.pdb
+c:\users\taner.selek\documents\visual studio 2017\Projects\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\bin\Debug\netstandard2.0\DynamicProxy.StandardLibrary.deps.json
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\bin\Debug\netstandard2.0\DynamicProxy.StandardLibrary.dll
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\bin\Debug\netstandard2.0\DynamicProxy.StandardLibrary.pdb
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.csprojResolveAssemblyReference.cache
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.csproj.CoreCompileInputs.cache
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.AssemblyInfoInputs.cache
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.AssemblyInfo.cs
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.dll
+C:\Users\husnu.isleyen\Desktop\DynamicProxyExample\DynamicProxy.StandardLibrary\obj\Debug\netstandard2.0\DynamicProxy.StandardLibrary.pdb
